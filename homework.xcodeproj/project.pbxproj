@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		9A1329202999732200CACBAB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A13291F2999732200CACBAB /* main.swift */; };
+		9A132927299974F400CACBAB /* Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A132926299974F400CACBAB /* Cell.swift */; };
+		9A1329292999750000CACBAB /* Screen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A132928299974FF00CACBAB /* Screen.swift */; };
+		9A13292B2999750D00CACBAB /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A13292A2999750D00CACBAB /* Product.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,9 @@
 /* Begin PBXFileReference section */
 		9A13291C2999732200CACBAB /* homework */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = homework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A13291F2999732200CACBAB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		9A132926299974F400CACBAB /* Cell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cell.swift; sourceTree = "<group>"; };
+		9A132928299974FF00CACBAB /* Screen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Screen.swift; sourceTree = "<group>"; };
+		9A13292A2999750D00CACBAB /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				9A13291F2999732200CACBAB /* main.swift */,
+				9A132926299974F400CACBAB /* Cell.swift */,
+				9A132928299974FF00CACBAB /* Screen.swift */,
+				9A13292A2999750D00CACBAB /* Product.swift */,
 			);
 			path = homework;
 			sourceTree = "<group>";
@@ -121,6 +130,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				9A1329202999732200CACBAB /* main.swift in Sources */,
+				9A13292B2999750D00CACBAB /* Product.swift in Sources */,
+				9A132927299974F400CACBAB /* Cell.swift in Sources */,
+				9A1329292999750000CACBAB /* Screen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
